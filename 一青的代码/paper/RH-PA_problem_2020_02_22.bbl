@@ -1,0 +1,100 @@
+\begin{thebibliography}{LRTY18}
+
+\bibitem[APT19]{APT19}
+Ren{\'e} A{\"{\i}}d, Dylan Possama{\"{\i}}, and Nizar Touzi.
+\newblock {A principal-agent model for pricing electricity volatility demand}.
+\newblock {\em Working paper}, 2019.
+
+\bibitem[BD05]{BD05}
+P.~Bolton and M.~Dewatripont.
+\newblock {Contract Theory}.
+\newblock 2005.
+
+\bibitem[Ben70]{Benes70}
+V.~E. Bene\v{s}.
+\newblock {Existence of optimal strategies based on specified information, for
+  a class of stochastic decision problems}.
+\newblock {\em SIAM J. Control}, 8:179--188, 1970.
+
+\bibitem[Ben71]{Benes71}
+V.~E. Bene\v{s}.
+\newblock {Existence of optimal stochastic control laws}.
+\newblock {\em SIAM J. Control}, 9:446--472, 1971.
+
+\bibitem[CPT17]{CPT17}
+Jak\v{s}a Cvitani{\'c}, Dylan Possama{\"{\i}}, and Nizar Touzi.
+\newblock {Moral hazard in dynamic risk management}.
+\newblock {\em Management science}, 63(107):3328--3346, 2017.
+
+\bibitem[CPT18]{CPT18}
+Jak\v{s}a Cvitani{\'c}, Dylan Possama{\"{\i}}, and Nizar Touzi.
+\newblock {Dynamic programming approach to principal-agent problems}.
+\newblock {\em Finance Stoch.}, 22(1):1--37, 2018.
+
+\bibitem[CZ13]{CZ12}
+Jak\v{s}a Cvitani{\'c} and Jianfeng Zhang.
+\newblock {\em {Contract theory in continuous-time models}}.
+\newblock {Springer Finance}. Springer, Heidelberg, 2013.
+
+\bibitem[EPQ97]{EKPQ97}
+N.~{El Karoui}, S.~Peng, and M.~C. Quenez.
+\newblock {Backward stochastic differential equations in finance}.
+\newblock {\em Math. Finance}, 7(1):1--71, 1997.
+
+\bibitem[ET13]{ElKTan13}
+Nicole {El Karoui} and Xiaolu Tan.
+\newblock {Capacities, measurable selection and dynamic programming. Part I:
+  Abstract framework}.
+\newblock {\em Preprint}, 2013.
+
+\bibitem[ET15]{ElKTan15}
+Nicole {El Karoui} and Xiaolu Tan.
+\newblock {Capacities, measurable selection and dynamic programming. Part II:
+  Application in stochastic control problems}.
+\newblock {\em Preprint}, 2015.
+
+\bibitem[HM87]{HM87}
+Bengt Holmstr{\"o}m and Paul Milgrom.
+\newblock {Aggregation and linearity in the provision of intertemporal
+  incentives}.
+\newblock {\em Econometrica}, 55(2):303--328, 1987.
+
+\bibitem[Kar95]{Kar95}
+R.~Karandikar.
+\newblock {On pathwise stochastic integration}.
+\newblock {\em Stochastic Processes and their Applications}, 57(1):11--18,
+  1995.
+
+\bibitem[KS91]{KS91}
+Ioannis Karatzas and Steven~E. Shreve.
+\newblock {\em {Brownian motion and stochastic calculus}}, volume 113 of {\em
+  {Graduate Texts in Mathematics}}.
+\newblock Springer-Verlag, 1991.
+
+\bibitem[LRTY18]{LRTY18}
+Yiqing Lin, Zhenjie Ren, Nizar Touzi, and Junjian Yang.
+\newblock {Second order backward SDE with random terminal time}.
+\newblock {\em preprint}, 2018.
+
+\bibitem[Nut12]{Nut12}
+Marcel Nutz.
+\newblock {Pathwise construction of stochastic integrals}.
+\newblock {\em Electron. Commun. Probab}, 17(24):1--7, 2012.
+
+\bibitem[PTZ18]{PTZ18}
+Dylan Possama{\"{\i}}, Xiaolu Tan, and Chao Zhou.
+\newblock {Stochastic Control for a class of nonlinear kernels and
+  applications}.
+\newblock {\em Annals of Probability}, 46(1):551--603, 2018.
+
+\bibitem[San08]{Sannikov08}
+Yuliy Sannikov.
+\newblock {A continuous-time version of the principal-agent problem}.
+\newblock {\em Rev. Econom. Stud.}, 75(3):957--984, 2008.
+
+\bibitem[STZ12]{STZ12}
+H.M. Soner, N.~Touzi, and J.~Zhang.
+\newblock {Wellposedness of second order backward {S}{D}{E}s}.
+\newblock {\em Probability Theory and Related Fields}, 153(1-2):149--190, 2012.
+
+\end{thebibliography}

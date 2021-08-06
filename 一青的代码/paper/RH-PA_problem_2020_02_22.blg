@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: RH-PA_problem_2020_02_22.aux
+The style file: alpha.bst
+Database file #1: PAProblem.bib
+Warning--empty journal in BD05
+You've used 18 entries,
+            2543 wiz_defined-function locations,
+            687 strings with 6834 characters,
+and the built_in function-call counts, 6800 in all, are:
+= -- 690
+> -- 335
+< -- 6
++ -- 112
+- -- 112
+* -- 507
+:= -- 1165
+add.period$ -- 55
+call.type$ -- 18
+change.case$ -- 109
+chr.to.int$ -- 18
+cite$ -- 19
+duplicate$ -- 255
+empty$ -- 470
+format.name$ -- 135
+if$ -- 1339
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 93
+num.names$ -- 54
+pop$ -- 83
+preamble$ -- 1
+purify$ -- 129
+quote$ -- 0
+skip$ -- 214
+stack$ -- 0
+substring$ -- 371
+swap$ -- 19
+text.length$ -- 6
+text.prefix$ -- 5
+top$ -- 0
+type$ -- 136
+warning$ -- 1
+while$ -- 71
+width$ -- 21
+write$ -- 230
+(There was 1 warning)
